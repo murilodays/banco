@@ -46,8 +46,6 @@ O sistema de caixa eletrônico oferece as seguintes funcionalidades:
 ## Melhorias Futuras
 
 - Implementar uma interface gráfica para melhorar a usabilidade.
-- Criar um sistema de login para simular contas bancárias.
-- Adicionar uma opção para transferência entre contas.
 
 ## Entre em Contato Comigo
 
